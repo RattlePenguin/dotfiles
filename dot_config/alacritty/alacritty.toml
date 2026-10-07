@@ -2,7 +2,7 @@
 working_directory = "None"
 live_config_reload = true
 import = [
-  "~/.config/alacritty/themes/ayu-mirage.toml"
+  "/home/duckye/.config/alacritty/themes/ayu-mirage.toml"
 ]
 
 [env]
