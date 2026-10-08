@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 d883775df90cd4eef84cd526b9da8af351120cfe RattlePenguin <viggo.setiawan@gmail.com> 1786271989 +1000	commit (initial): Basically LazyVim vanilla but with supertab-like behaviour in blink.cmp.
-d883775df90cd4eef84cd526b9da8af351120cfe 26c13c56d8cb40782f2c3ec4dac36c9a5dc0495f RattlePenguin <viggo.setiawan@gmail.com> 1786272110 +1000	commit: added changes to readme
-26c13c56d8cb40782f2c3ec4dac36c9a5dc0495f 2731d008e5af72d596b9027573c31c0914ef30d7 RattlePenguin <viggo.setiawan@gmail.com> 1786601689 +1000	commit: throw
-2731d008e5af72d596b9027573c31c0914ef30d7 26c13c56d8cb40782f2c3ec4dac36c9a5dc0495f RattlePenguin <viggo.setiawan@gmail.com> 1786601692 +1000	reset: moving to HEAD~1
-26c13c56d8cb40782f2c3ec4dac36c9a5dc0495f 4d616cee3ab2fd3106eb314420e8b29a2b8d757d RattlePenguin <viggo.setiawan@gmail.com> 1789128946 +1000	commit: removed blink cmp basically bare lazyvim
